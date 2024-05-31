@@ -22,7 +22,7 @@ To use this program, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the program.
-3. Run the Python script `fake_data_generator.ipynb`.
+3. Run the Python script `data_generator_program.ipynb`.
 4. The generated data will be saved as a CSV file named `fake_data.csv` in the same directory.
 
 Feel free to modify the parameters of the generated data according to your requirements. You can also integrate this program into your machine learning pipeline for data preprocessing and testing.
